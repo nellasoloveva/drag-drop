@@ -1,0 +1,73 @@
+.aa{
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-radius: 35px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 40px;
+    background-color: darkred;
+    font-size: 24px;
+    font-weight: 600;
+}
+.dragover{
+    background-color: rgb(32, 32, 32);
+    border-style: dashed;
+}
+.folder{
+    background-color: darkred;
+    border-radius: 35px;
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 20px;
+}
+body{
+    background-color: rgb(138, 138, 138);
+    margin: 0px;
+}
+.createfolder{
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color: darkred;
+    border-radius: 35px;
+    border-left: 0px;
+    font-weight: 600;
+    height: 30px;
+}
+.box2{
+    display: flex;
+}
+.newDiv1{
+    display: flex;
+    margin-top: 10px;
+}
+.newDiv{
+    margin-top: 10px;
+}
+.delFolBtn{
+    background-color: darkred;
+    border-radius: 35px;
+    border-left: 0px;
+    font-weight: 600;
+    height: 20px;
+    margin-left: 7px;
+}
+.pushBtn{
+    background-color: darkred;
+    border-radius: 35px;
+    border-left: 0px;
+    font-weight: 600;
+    height: 20px;
+}
+.delElBtn{
+    border-radius: 35px;
+    border-left: 0px;
+    font-weight: 600;
+    height: 20px;
+    margin-left: 7px;
+    background-color: darkred;
+}
